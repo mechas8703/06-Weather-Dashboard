@@ -17,9 +17,17 @@ header {
 }
 
 .city-history {
-    background: #f8f9fa;
-    margin: 0;
+    background: white;
     padding: .25em .75em 1em .75em;
+}
+
+.btn-primary:hover{
+    background: rgba(17, 144, 241, 0.885);
+}
+
+.list-group-item.active{
+    background: rgba(17, 144, 241, 0.885);
+    border: rgba(17, 144, 241, 0.885);
 }
 
 .city-display {
@@ -67,6 +75,7 @@ header {
 
 .forecast-body {
     padding : 8%;
+    background:rgb(27, 45, 63);
 }
 
 .city-item {
@@ -83,10 +92,10 @@ header {
 
 .btn-danger{
     padding: 0.3em;
-}
+}  
 
 .uv-low {
-    background: #8dc443;
+    background: #1e8d19;
 }
 
 .uv-medium {
