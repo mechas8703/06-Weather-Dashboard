@@ -21,3 +21,8 @@ SO THAT I can plan a trip accordingly
 * THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
 * WHEN I click on a city in the search history
 * THEN I am again presented with current and future conditions for that city
+
+## [Link to deployed application](https://mechas8703.github.io/06-Weather-Dashboard/)
+
+## * Weather Dashboard
+![Weather Dashboard](./assets/06-server-side-apis-homework-demo.png)
