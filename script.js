@@ -6,7 +6,7 @@ $(document).ready(function() {
     }
 
     const dashboardSaved = "weather-dashboard-saved";
-    const apiKey = "43b58455665ab44ce81cff40a4aa69d9";
+    const apiKey = "231b0a8738afa7bee37961d0b013c3e7";
 
     initialize();
 
